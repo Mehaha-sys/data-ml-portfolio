@@ -1,7 +1,9 @@
-# Data
+Data
 
-This project uses the NASA Kepler DR25 KOI dataset.
+This project uses the NASA Kepler DR25 KOI dataset from the NASA Exoplanet Archive.
 
-The raw CSV is not stored in this repository. Download the dataset from the NASA Exoplanet Archive and place the file locally at:
+The raw dataset used for the analysis is stored in:
 
-data/raw/kepler_koi_dr25.csv
+"data/raw/kepler_koi_dr25.csv"
+
+The dataset contains Kepler Objects of Interest (KOIs) along with their disposition and observed/modelled transit and stellar properties.
